@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 😄 Pronouns: he/him/his
+<!-- - 😄 Pronouns: he/him/his -->
 <!-- - 🔭 I’m currently working on ... -->
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
